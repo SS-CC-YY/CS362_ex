@@ -1,0 +1,11 @@
+5 user stories:
+
+1. As a user, I want when I login on the same machine, I dont have to enter the password every tims so that I can save a lot of time
+
+2. As a user, I want to create a group that includes my friends, so that we could talk onile together
+
+3. As a user, I want to see my chat history with other people so that I can make sure that I will not forget some words or appointments
+
+4. As a user, I want this software can be directly linked to the google map, so that when my friend sends me the location of a place, I can see it directly on the google map
+
+5. As a user, I want to classify my friends so that I can quickly find them quickly when looking for someone
